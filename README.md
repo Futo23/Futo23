@@ -7,7 +7,7 @@ I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe
 #### Social
 - [Twitter](https://twitter.com/Futo_Horio)
 
-#### Blog
+#### Tech Blog
 - [Qiita](https://qiita.com/Futo_Horio)
 - [Medium](https://medium.com/@kdlhorio)
 - [note](https://note.com/futo23)
