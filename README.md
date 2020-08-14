@@ -4,7 +4,7 @@ Hi there! I'm Futo Horio, Software Engineer. Microsoft MVP for Windows Developme
 I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe HoloLens Meetup! ).<br/>
 
 ## My Activity 💬
-#### 
+#### Social
 - [Twitter](https://twitter.com/Futo_Horio)
 
 #### Blog
