@@ -11,11 +11,11 @@ I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe
 - [Medium](https://medium.com/@kdlhorio)
 - [note](https://note.com/futo23)
 
-#### Doc
+#### Article
 - [SpeakerDeck](https://speakerdeck.com/futo23)
 
-#### Another
-- [Microsoft MVP for Windows Development - Futo Horio](https://mvp.microsoft.com/en-us/PublicProfile/5003868?fullName=Futo%20Horio)
+#### Other
+- [Microsoft MVP for Windows Development ( Futo Horio )](https://mvp.microsoft.com/en-us/PublicProfile/5003868?fullName=Futo%20Horio)
 
 
 <!--
