@@ -6,6 +6,7 @@ I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe
 ## My Activity 💬
 #### Social
 - [Twitter](https://twitter.com/Futo_Horio)
+- [LinkedIn](https://www.linkedin.com/in/%E9%A2%A8%E4%BB%81-%E5%A0%80%E5%B0%BE-4b273312a/)
 
 #### Tech Blog
 - [Qiita](https://qiita.com/Futo_Horio)
@@ -14,6 +15,10 @@ I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe
 
 #### Article
 - [SpeakerDeck](https://speakerdeck.com/futo23)
+
+#### Comunity
+- [AR KOBE](https://arkobe.connpass.com/)
+- [Azure Tech Lab.](https://azure-tech-love.connpass.com/)
 
 #### Other
 - [Microsoft MVP for Windows Development ( Futo Horio )](https://mvp.microsoft.com/en-us/PublicProfile/5003868?fullName=Futo%20Horio)
