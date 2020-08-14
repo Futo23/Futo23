@@ -1,5 +1,5 @@
 ## Futo Horio / 堀尾 風仁
-Hi there :raised_hands: I'm Futo Horio, Software Engineer at Kobe Digital Labo.( in Japan :jp: )
+Hi there 👋 I'm Futo Horio, Software Engineer at Kobe Digital Labo.( in Japan :flag_jp: )
 
 ## Social 💬
 - [Twitter](https://twitter.com/Futo_Horio)
