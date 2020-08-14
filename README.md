@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## Futo Horio / 堀尾 風仁
+
+### ⚡ Social
+- [Twitter](https://twitter.com/Futo_Horio)
+- [Qiita](https://qiita.com/Futo_Horio)
+- [SpeakerDech](https://speakerdeck.com/futo23)
+- [Microsoft MVP for Windows Development - Futo Horio](https://mvp.microsoft.com/en-us/PublicProfile/5003868?fullName=Futo%20Horio)
+- [Medium](https://medium.com/@kdlhorio)
+- [note](https://note.com/futo23)
+
 <!--
 **Futo23/Futo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
