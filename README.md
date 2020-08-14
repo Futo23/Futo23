@@ -1,4 +1,4 @@
-## Futo Horio / 堀尾 風仁
+## Futo Horio - @Futo23
 Hi there 👋 I'm Futo Horio, Software Engineer at Kobe Digital Labo.( in Japan :jp: )
 
 ## Social 💬
