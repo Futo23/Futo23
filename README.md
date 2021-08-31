@@ -37,6 +37,7 @@ I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe
 - [HoloLens 2 アプリケーションデプロイ時に TimeoutException が頻発し、デプロイが失敗する場合の解決策 ( DEP0600 )](https://qiita.com/Futo_Horio/items/b1828d05c872d0b5be8f)
 - [HoloLens 2 × Pixel 3 / iPhone XS で Spectator View を試してみた ( Azure Spatial Anchors )](https://qiita.com/Futo_Horio/items/c8fe6b99f5bdc0dd72ac)
 
+
 ### MRTK
 - [MRTK v2.4 Release Notes (日本語訳)](https://qiita.com/Futo_Horio/items/18919ca937f80d21ef45)
 - [MRTK v2.5 Release Notes (日本語訳)](https://qiita.com/Futo_Horio/items/a5ce6e8135cb85363aaa)
@@ -50,6 +51,7 @@ I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe
 - [Mixed Reality Toolkit (MRTKv2) の「BoundingBox」サンプルを動かしてみた。](https://qiita.com/Futo_Horio/items/2411071b3c3838e3f5c2)
 
 ### Azure Mixed Reality Service
+- []()
 - [Azure Spatial Anchors を使って、アンカー情報の共有を行ってみた！【 HoloLens, Google Pixel 3 編 】](https://qiita.com/Futo_Horio/items/2b0991a88a6ca08cfb3b)
 
 ### Azure DevOpsq
@@ -78,6 +80,26 @@ I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe
 - [UnityでiOS向けのARアプリを開発する方法 ( AR Foundation + ARKit-XR-Plugin 導入編 )](https://qiita.com/Futo_Horio/items/63d21f0e3db55052899d)
 - [VSCodeを使って、Azure Functions 関数作成～デプロイまでやってみた。](https://qiita.com/Futo_Horio/items/dd36e0ed7d674f3f226f)
 - [#VSCode 導入編 ( 拡張機能 5選 )](https://qiita.com/Futo_Horio/items/084c8a04f81c42d213b4)
+
+### Material
+- [Azure Remote Rendering Recap - サービス概要と活用事例](https://speakerdeck.com/futo23/azure-remote-rendering-recap-sabisugai-yao-tohuo-yong-shi-li)
+- [MR Dev Days Japan 前夜祭 - Azure Remote Rendering のご紹介](https://speakerdeck.com/futo23/mr-dev-days-japan-qian-ye-ji-azure-remote-rendering-falsegoshao-jie)
+- [不確定要素の強い時代の生存戦略 ー U30が好きなコトで突き抜けるためには？[Session17]](https://speakerdeck.com/futo23/bu-que-ding-yao-su-falseqiang-ishi-dai-falsesheng-cun-zhan-lue-u30gahao-kinakotodetu-kiba-kerutameniha-session17)
+- [Microsoft MVP が考える Mixed Reality の未来](https://speakerdeck.com/futo23/microsoft-mvp-gakao-eru-mixed-reality-falsewei-lai)
+- [Mixed Reality Toolkit v.2.5.0 Release notes を紐解く](https://speakerdeck.com/futo23/mixed-reality-toolkit-v-dot-2-5-dot-0-release-notes-woniu-jie-ku)
+- [Dynamics 365 Guides 導入手順 ( 2020/08 最新版 )](https://speakerdeck.com/futo23/08-zui-xin-ban)
+- [Azure Spatial Anchors と Photon を使った、マルチユーザーシェアリングについて](https://speakerdeck.com/futo23/azure-spatial-anchors-to-photon-woshi-tuta-marutiyuzasiearingunituite)
+- [ AzureTechLab_デブサミ関西コミュニティLT](https://speakerdeck.com/futo23/azuretechlab-debusamiguan-xi-komiyuniteilt)
+- [HoloLens 2 × Photon PUN 複数人での低遅延コンテンツ共有公式サンプルを動かしてみた](https://speakerdeck.com/futo23/hololens-2-x-photon-pun-fu-shu-ren-defalsedi-chi-yan-kontentugong-you-gong-shi-sanpuruwodong-kasitemita)
+- [Azure Remote Rendering 公式サンプル徹底解説](https://speakerdeck.com/futo23/azure-remote-rendering-gong-shi-sanpuruche-di-jie-shuo)
+- [AR KOBE のご紹介 / Scene Understanding について](https://speakerdeck.com/futo23/scene-understanding-nituite)
+- [Mixed Reality Toolkit v2.3.0 PressableButton Overview](https://speakerdeck.com/futo23/mixed-reality-toolkit-v2-dot-3-0-pressablebutton-overview)
+- [HoloLens 2 × iPhone XS × Pixel 3 を使って Spectator View for Mobile を試してみた](https://speakerdeck.com/futo23/hololens-2-x-iphone-xs-x-pixel-3-woshi-tute-spectator-view-for-mobile-woshi-sitemita)
+- [桃太郎デスマッチ ー Azure / AWS / GCP で Speech-To-Text の結果を比べてみた！](https://speakerdeck.com/futo23/gcp-de-speech-to-text-falsejie-guo-wobi-betemita)
+- [HoloLens 2が破壊するMixed RealityのUI/UX ~HoloLens 2が体現する次世代のUI/UXとは？~](https://speakerdeck.com/futo23/uxtoha)
+- [MR Dev Days & Microsoft Build 2019 MR(Mixed Reality) 最新レポート | 2019](https://speakerdeck.com/futo23/mr-dev-days-and-microsoft-build-2019-mr-mixed-reality-zui-xin-repoto)
+- [非デザイナーのエンジニアが HoloLens UI/UX について、本気で考えてみた](https://speakerdeck.com/futo23/ux-nituite-ben-qi-dekao-etemita)
+- [TypeSquare API を活用したMixed Realityアプリケーション開発 [事例紹介]](https://speakerdeck.com/futo23/typesquare-apiwohuo-yong-sitamixed-realityapurikesiyonkai-fa-shi-li-shao-jie)
 
 
 <!--
