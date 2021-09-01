@@ -32,7 +32,6 @@ I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe
 - [Mixed Reality Toolkit (MRTKv2) の「BoundingBox」サンプルを動かしてみた。](https://qiita.com/Futo_Horio/items/2411071b3c3838e3f5c2)
 
 ### Azure Mixed Reality Service
-- []()
 - [Azure Spatial Anchors を使って、アンカー情報の共有を行ってみた！【 HoloLens, Google Pixel 3 編 】](https://qiita.com/Futo_Horio/items/2b0991a88a6ca08cfb3b)
 
 ### Azure DevOps
