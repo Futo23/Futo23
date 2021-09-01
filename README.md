@@ -3,25 +3,6 @@
 Hi there! I'm Futo Horio, Software Engineer. Microsoft MVP for Windows Development ( 2020.08～ )<br/>
 I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe HoloLens Meetup! ).<br/>
 
-
-# My Activity ⚡
-### Social
-- [Twitter](https://twitter.com/Futo_Horio)
-- [LinkedIn](https://www.linkedin.com/in/%E9%A2%A8%E4%BB%81-%E5%A0%80%E5%B0%BE-4b273312a/)
-
-### Tech Blog
-- [Qiita](https://qiita.com/Futo_Horio)
-- [Medium](https://medium.com/@kdlhorio)
-- [note](https://note.com/futo23)
-
-### Article
-- [SpeakerDeck](https://speakerdeck.com/futo23)
-
-### Comunity
-- [AR KOBE](https://arkobe.connpass.com/)
-- [Azure Tech Lab.](https://azure-tech-love.connpass.com/)
-
-### Other
 - [Microsoft MVP for Windows Development ( Futo Horio )](https://mvp.microsoft.com/en-us/PublicProfile/5003868?fullName=Futo%20Horio)
 
 <br/>
@@ -54,7 +35,7 @@ I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe
 - []()
 - [Azure Spatial Anchors を使って、アンカー情報の共有を行ってみた！【 HoloLens, Google Pixel 3 編 】](https://qiita.com/Futo_Horio/items/2b0991a88a6ca08cfb3b)
 
-### Azure DevOpsq
+### Azure DevOps
 - [Azure DevOps を使って HoloLens 2 向けの CI 環境を構築してみた ( Microsoft-hosted Agent 編 )](https://qiita.com/Futo_Horio/items/b2dfdfec3757d3558eea)
 
 ### Azure
@@ -81,7 +62,7 @@ I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe
 - [VSCodeを使って、Azure Functions 関数作成～デプロイまでやってみた。](https://qiita.com/Futo_Horio/items/dd36e0ed7d674f3f226f)
 - [#VSCode 導入編 ( 拡張機能 5選 )](https://qiita.com/Futo_Horio/items/084c8a04f81c42d213b4)
 
-### Material
+### Materials
 - [Azure Remote Rendering Recap - サービス概要と活用事例](https://speakerdeck.com/futo23/azure-remote-rendering-recap-sabisugai-yao-tohuo-yong-shi-li)
 - [MR Dev Days Japan 前夜祭 - Azure Remote Rendering のご紹介](https://speakerdeck.com/futo23/mr-dev-days-japan-qian-ye-ji-azure-remote-rendering-falsegoshao-jie)
 - [不確定要素の強い時代の生存戦略 ー U30が好きなコトで突き抜けるためには？[Session17]](https://speakerdeck.com/futo23/bu-que-ding-yao-su-falseqiang-ishi-dai-falsesheng-cun-zhan-lue-u30gahao-kinakotodetu-kiba-kerutameniha-session17)
@@ -96,11 +77,33 @@ I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe
 - [Mixed Reality Toolkit v2.3.0 PressableButton Overview](https://speakerdeck.com/futo23/mixed-reality-toolkit-v2-dot-3-0-pressablebutton-overview)
 - [HoloLens 2 × iPhone XS × Pixel 3 を使って Spectator View for Mobile を試してみた](https://speakerdeck.com/futo23/hololens-2-x-iphone-xs-x-pixel-3-woshi-tute-spectator-view-for-mobile-woshi-sitemita)
 - [桃太郎デスマッチ ー Azure / AWS / GCP で Speech-To-Text の結果を比べてみた！](https://speakerdeck.com/futo23/gcp-de-speech-to-text-falsejie-guo-wobi-betemita)
-- [HoloLens 2が破壊するMixed RealityのUI/UX ~HoloLens 2が体現する次世代のUI/UXとは？~](https://speakerdeck.com/futo23/uxtoha)
+- [HoloLens 2が破壊するMixed RealityのUI/UX - HoloLens 2が体現する次世代のUI/UXとは？](https://speakerdeck.com/futo23/uxtoha)
 - [MR Dev Days & Microsoft Build 2019 MR(Mixed Reality) 最新レポート | 2019](https://speakerdeck.com/futo23/mr-dev-days-and-microsoft-build-2019-mr-mixed-reality-zui-xin-repoto)
 - [非デザイナーのエンジニアが HoloLens UI/UX について、本気で考えてみた](https://speakerdeck.com/futo23/ux-nituite-ben-qi-dekao-etemita)
 - [TypeSquare API を活用したMixed Realityアプリケーション開発 [事例紹介]](https://speakerdeck.com/futo23/typesquare-apiwohuo-yong-sitamixed-realityapurikesiyonkai-fa-shi-li-shao-jie)
 
+<br/>
+
+# My Activity ⚡
+### Social
+- [Twitter](https://twitter.com/Futo_Horio)
+- [LinkedIn](https://www.linkedin.com/in/%E9%A2%A8%E4%BB%81-%E5%A0%80%E5%B0%BE-4b273312a/)
+
+### Tech Blog
+- [Qiita](https://qiita.com/Futo_Horio)
+- [Medium](https://medium.com/@kdlhorio)
+- [note](https://note.com/futo23)
+
+### Article
+- [SpeakerDeck](https://speakerdeck.com/futo23)
+
+### Comunity
+- [AR KOBE](https://arkobe.connpass.com/)
+- [Azure Tech Lab.](https://azure-tech-love.connpass.com/)
+
+
+
+<br/>
 
 <!--
 **Futo23/Futo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
