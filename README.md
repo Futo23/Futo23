@@ -10,6 +10,7 @@ I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe
 # Output 💬
 
 ### HoloLens 2 Development
+- [HoloLens 2 アプリケーションのアイコンを変更する方法](https://qiita.com/Futo_Horio/items/abfc7e57747fdcc6d33b)
 - [HoloLens 2 アプリケーションのログ出力確認方法](https://qiita.com/Futo_Horio/items/5a3b9c2ff61c37cb79ad)
 - [デザインツール Figma を使って MRTK の デザインラフ を作成する方法](https://qiita.com/Futo_Horio/items/7dc53bc3006b319b2c66)
 - [Microsoft Mesh Technical Overview (日本語訳)](https://qiita.com/Futo_Horio/items/3bb392cf97a3de0894e8)
@@ -28,7 +29,6 @@ I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe
 - [【  HoloLens 2 公式チュートリアル 】 「Mult-user capabilities tutorials」 を試してみた (後編)](https://qiita.com/Futo_Horio/items/ed9819889c9fe1aeb068)
 
 ### MRTK
-- [MeshSmoother.cs スクリプトを使用する際の注意点](https://qiita.com/Futo_Horio/items/ce148559556e1de3fdab)
 - [Unity 開発環境の MRTK バージョンを確認する方法](https://qiita.com/Futo_Horio/items/0547442101d0d3e14765)
 - [MRTK v2.4 Release Notes (日本語訳)](https://qiita.com/Futo_Horio/items/18919ca937f80d21ef45)
 - [MRTK v2.5 Release Notes (日本語訳)](https://qiita.com/Futo_Horio/items/a5ce6e8135cb85363aaa)
