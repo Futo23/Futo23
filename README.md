@@ -29,6 +29,7 @@ I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe
 - [【  HoloLens 2 公式チュートリアル 】 「Mult-user capabilities tutorials」 を試してみた (後編)](https://qiita.com/Futo_Horio/items/ed9819889c9fe1aeb068)
 
 ### MRTK
+- [Mixed Reality Capture (MRC) で撮影した動画で灰色のオーバーレイが適用される問題の解決方法](https://qiita.com/Futo_Horio/items/37cbfa7f3b98f6ae790e)
 - [Unity 開発環境の MRTK バージョンを確認する方法](https://qiita.com/Futo_Horio/items/0547442101d0d3e14765)
 - [MRTK v2.4 Release Notes (日本語訳)](https://qiita.com/Futo_Horio/items/18919ca937f80d21ef45)
 - [MRTK v2.5 Release Notes (日本語訳)](https://qiita.com/Futo_Horio/items/a5ce6e8135cb85363aaa)
