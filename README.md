@@ -58,6 +58,7 @@ I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe
 - None
 
 ### Other
+- [HoloLens 2 における Unity PlayerPrefs データ保存場所について](https://qiita.com/Futo_Horio/items/3c5aaf4e2e879def1054)
 - [SIMPLYGON を使用したリダクション処理](https://qiita.com/Futo_Horio/items/d947e45e5c1525c9cddd)
 - [Unity Editor のスクリプトファイルを VSCode で開く方法](https://qiita.com/Futo_Horio/items/c7874e7afaaf12b28d6f)
 - [Unity で iOS 向けの AR アプリを開発する方法 ( AR Foundation + ARKit-XR-Plugin 導入編 )](https://qiita.com/Futo_Horio/items/63d21f0e3db55052899d)
