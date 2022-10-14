@@ -29,6 +29,9 @@ I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe
 - [【  HoloLens 2 公式チュートリアル 】 「Mult-user capabilities tutorials」 を試してみた (後編)](https://qiita.com/Futo_Horio/items/ed9819889c9fe1aeb068)
 
 ### MRTK
+- [MRTK3 環境セットアップ手順](https://qiita.com/Futo_Horio/items/ee879f1ea786f407caea)
+- [Unity Test Framework (UTF) と MRTK Test Utilities を使ったテスト駆動開発 (TDD) 入門](https://qiita.com/Futo_Horio/items/97f4a1ef8dd679870efa)
+- [MRTK Standard Shader で ArgumentException: Could not find MaterialProperty: '_InstancedColor' が発生した場合の対処法](https://qiita.com/Futo_Horio/items/6e28a2587c1af8ceb830)
 - [MRTK Figma Bridge を使って Figma レイアウトファイルを Unity に読み込む方法](https://qiita.com/Futo_Horio/items/3672bb5c0a86c512fecb)
 - [Mixed Reality Capture (MRC) で撮影した動画で灰色のオーバーレイが適用される問題の解決方法](https://qiita.com/Futo_Horio/items/37cbfa7f3b98f6ae790e)
 - [Unity 開発環境の MRTK バージョンを確認する方法](https://qiita.com/Futo_Horio/items/0547442101d0d3e14765)
@@ -43,6 +46,9 @@ I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe
 - [Mixed Reality Toolkit (MRTKv2) の「BoundingBox」サンプルを動かしてみた。](https://qiita.com/Futo_Horio/items/2411071b3c3838e3f5c2)
 
 ### Azure Mixed Reality Service
+- [Azure Remote Rendering REST API を使って Azure Blob Storage の3Dモデルを変換する方法](https://qiita.com/Futo_Horio/items/8714547ea7346f548cea)
+- [Azure Remote Rendering Asset Tool (ARRT) の使い方 (2022.02 最新版)](https://qiita.com/Futo_Horio/items/31c42e458f4dbc1aa0c2)
+- [Azure Remote Rendering Showcase セットアップ手順 (2021.11)](https://qiita.com/Futo_Horio/items/113a0e6ec3015bfd8e43)
 - [Azure Remote Rendering Asset Tool で生成される config.json について](https://qiita.com/Futo_Horio/items/96810ca49afef60913d6)
 - [HoloLens 2 × Pixel 3 / iPhone XS で Spectator View を試してみた ( Azure Spatial Anchors )](https://qiita.com/Futo_Horio/items/c8fe6b99f5bdc0dd72ac)
 - [Azure Spatial Anchors を使って、アンカー情報の共有を行ってみた！【 HoloLens, Google Pixel 3 編 】](https://qiita.com/Futo_Horio/items/2b0991a88a6ca08cfb3b)
@@ -51,13 +57,29 @@ I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe
 - [Azure DevOps を使って HoloLens 2 向けの CI 環境を構築してみた ( Microsoft-hosted Agent 編 )](https://qiita.com/Futo_Horio/items/b2dfdfec3757d3558eea)
 
 ### Azure
+- [[調査ログ] Azure App Service アプリケーション設定 (環境変数) の変更が反映されない件について](https://qiita.com/Futo_Horio/items/2220ffdb2d831b40ef2f)
+- [【 Azure Functions 】リクエスト URI (Path) に含まれる任意の値を関数内で処理する方法](https://qiita.com/Futo_Horio/items/2471dbcfe2a47a335be6)
+- [【 Azure AD B2C 】サインインのリダイレクト時にエラーが発生する際の解決策](https://qiita.com/Futo_Horio/items/14c3a9516e62ebd392e7)
+- [【 Azure 】 Function App をインポートした API Management のトラブルシューティング方法](https://qiita.com/Futo_Horio/items/f39a5707abfe256bad22)
+- [【 Azure App Service 】Git/デプロイメント情報を更新する方法](https://qiita.com/Futo_Horio/items/d0e2c8d84246e6df99b4)
+- [【 Azure App Service 】デプロイを GitHub Actions で行う方法](https://qiita.com/Futo_Horio/items/cd39976604692d6de001)
+- [【 Azure App Service 】PM2 コマンドを用いてアプリケーションを起動する方法](https://qiita.com/Futo_Horio/items/136cf596db74908e0fcf)
+- [Azure Function App に環境変数を設定する方法](https://qiita.com/Futo_Horio/items/05c25063f7eabc859faa)
+- [Azure Web App で React App のデプロイが反映されない際の解決方法](https://qiita.com/Futo_Horio/items/f28ab486a63ff8bfa71f)
+- [Azure Container Apps (preview) の Quickstarts を試してみる](https://qiita.com/Futo_Horio/items/b04820a0dfa2b9b502c0)
+- [Azure App Service で実行されている Web アプリに Azure AD 認証を追加する方法](https://qiita.com/Futo_Horio/items/5a5d58db6f7048838bd1)
+- [【 Azure 】Azure Functions から Azure Cosmos DB へ接続する方法 (TypeScript)](https://qiita.com/Futo_Horio/items/f3fc7c06108dd2eae475)
+- [API Management (APIM) で Open API 仕様の API をインポートする方法](https://qiita.com/Futo_Horio/items/cefc7a004763f5defc78)
+- [Web Apps (Node.js) と MongoDB を連携させる](https://qiita.com/Futo_Horio/items/9864f979bed942775b25)
 - [Azure 従量課金ライセンス ( Pay-As-You-Go ) で Cost Alert を設定する方法](https://qiita.com/Futo_Horio/items/3a14aa173df3afb5a50f)
 - [「桃太郎デスマッチ」 ー Azure / AWS / GCP 学習済みAIサービスで「桃太郎」を Speech To Text してみた話](https://qiita.com/Futo_Horio/items/dc095a4a27e031d810da)
 
 ### Unity, C#
-- None
+- [Unity 初心者がまず抑えておきたい開発効率を高めるショートカット 10選](https://qiita.com/Futo_Horio/items/1c06e15f0a06aa68a42c)
 
 ### Other
+- [React App で環境変数を追加する方法](https://qiita.com/Futo_Horio/items/51598e57a89f8758b80e)
+- [TypeScript チュートリアル (入門編)](https://qiita.com/Futo_Horio/items/de182639b7e4261c9606)
 - [HoloLens 2 における Unity PlayerPrefs データ保存場所について](https://qiita.com/Futo_Horio/items/3c5aaf4e2e879def1054)
 - [SIMPLYGON を使用したリダクション処理](https://qiita.com/Futo_Horio/items/d947e45e5c1525c9cddd)
 - [Unity Editor のスクリプトファイルを VSCode で開く方法](https://qiita.com/Futo_Horio/items/c7874e7afaaf12b28d6f)
@@ -66,6 +88,9 @@ I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe
 - [#VSCode 導入編 ( 拡張機能 5選 )](https://qiita.com/Futo_Horio/items/084c8a04f81c42d213b4)
 
 ### Materials
+- [MRTK3 - DataBinding and Theming 入門](https://speakerdeck.com/futo23/mrtk3-databinding-and-theming-ru-men)
+- [Microsoft Mesh に学ぶ Mixed Reality の気持ちの良い UX とは？ ーMRTK v2.7.3 で実験してみた](https://speakerdeck.com/futo23/microsoft-mesh-nixue-bu-mixed-reality-falseqi-chi-tifalseliang-i-ux-toha-mrtk-v2-dot-7-3-deshi-yan-sitemita)
+- [MRTK Test Utilities で始めるテスト駆動開発 (TDD) 入門 | XR Kaigi 2021](https://speakerdeck.com/futo23/mrtk-test-utilities-deshi-merutesutoqu-dong-kai-fa-tdd-ru-men-xr-kaigi-2021)
 - [Azure Remote Rendering Recap - サービス概要と活用事例](https://speakerdeck.com/futo23/azure-remote-rendering-recap-sabisugai-yao-tohuo-yong-shi-li)
 - [MR Dev Days Japan 前夜祭 - Azure Remote Rendering のご紹介](https://speakerdeck.com/futo23/mr-dev-days-japan-qian-ye-ji-azure-remote-rendering-falsegoshao-jie)
 - [不確定要素の強い時代の生存戦略 ー U30が好きなコトで突き抜けるためには？[Session17]](https://speakerdeck.com/futo23/bu-que-ding-yao-su-falseqiang-ishi-dai-falsesheng-cun-zhan-lue-u30gahao-kinakotodetu-kiba-kerutameniha-session17)
