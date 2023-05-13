@@ -23,10 +23,10 @@ I live in Kobe, Japan and also organizered of Azure Tech Lab, AR KOBE ( ex. Kobe
 
 
 ### HoloLens 2 Tutorials
-- [【 Microsoft Learn 】 「Azure Digital Twins と Unity を使用して Mixed Reality デジタルツインを構築する」 を試してみた (前編)](https://qiita.com/Futo_Horio/items/4f28db08a12698248be9)
-- [【 Microsoft Learn 】 「Azure Digital Twins と Unity を使用して Mixed Reality デジタルツインを構築する」 を試してみた (後編)](https://qiita.com/Futo_Horio/items/f63a00279d1c49ee44b8)
-- [【  HoloLens 2 公式チュートリアル 】 「Mult-user capabilities tutorials」 を試してみた (前編)](https://qiita.com/Futo_Horio/items/d1b828db2aeadaa46288)
-- [【  HoloLens 2 公式チュートリアル 】 「Mult-user capabilities tutorials」 を試してみた (後編)](https://qiita.com/Futo_Horio/items/ed9819889c9fe1aeb068)
+- [「Azure Digital Twins と Unity を使用して Mixed Reality デジタルツインを構築する」 を試してみた (前編)](https://qiita.com/Futo_Horio/items/4f28db08a12698248be9)
+- [「Azure Digital Twins と Unity を使用して Mixed Reality デジタルツインを構築する」 を試してみた (後編)](https://qiita.com/Futo_Horio/items/f63a00279d1c49ee44b8)
+- [「Mult-user capabilities tutorials」 を試してみた (前編)](https://qiita.com/Futo_Horio/items/d1b828db2aeadaa46288)
+- [「Mult-user capabilities tutorials」 を試してみた (後編)](https://qiita.com/Futo_Horio/items/ed9819889c9fe1aeb068)
 
 ### MRTK ( Mixed Reality Toolkit )
 - [MRTK3 環境セットアップ手順](https://qiita.com/Futo_Horio/items/ee879f1ea786f407caea)
